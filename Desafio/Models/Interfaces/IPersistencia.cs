@@ -7,6 +7,7 @@ namespace Desafio.Models.Interfaces
 {
     public interface IPersistencia
     {
-        
+        void SalvarDados();
+        void CarregarDados();
     }
 }

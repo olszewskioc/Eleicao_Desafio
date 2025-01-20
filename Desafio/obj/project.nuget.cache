@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BTimHR1XEcg=",
+  "dgSpecHash": "JsjTEV5orjU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiagocarvalho\\Documents\\Eleicao_Desafio\\Desafio\\Desafio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\diogogomes\\Documents\\development\\Eleicao\\Eleicao_Desafio\\Desafio\\Desafio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogogomes\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
